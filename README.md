@@ -107,8 +107,10 @@ streamlit run src/app.py
 
 ## **Deployment**
 
-The app is deployed on **Streamlit Cloud**. https://sentiment-analysis-t4qjfehktslrwon4s7yzow.streamlit.app/
-Files required for deployment:
+The app is deployed on **Streamlit Cloud**. 
+*https://sentiment-analysis-t4qjfehktslrwon4s7yzow.streamlit.app/
+
+* Files required for deployment:
 
 * `src/app.py`
 * `src/predict.py`
