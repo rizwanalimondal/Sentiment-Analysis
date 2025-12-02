@@ -1,0 +1,3 @@
+!models/sentiment_model.pkl
+!models/vectorizer.pkl
+!models/label_encoder.pkl
