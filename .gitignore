@@ -1,3 +1,17 @@
+# Ignore CSV dataset
+*.csv
+data/
+
+# Ignore all pickle except model + vectorizer
+*.pkl
+!models/
 !models/sentiment_model.pkl
 !models/vectorizer.pkl
-!models/label_encoder.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
